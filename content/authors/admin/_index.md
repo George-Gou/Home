@@ -3,6 +3,8 @@
 title: Jianing Gou
 native_name: "苟家宁"  # parameter for customized templates
 # Username (this should match the folder name)
+authors:
+- georgegou
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,8 +14,8 @@ role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name:  Institute of seismology, CEA
-  url: "http://www.eqhb.gov.cn/"
+- name: State Key Laboratory of Geodesy and Earth's Dynamics
+  url: "http://www.apm.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 
